@@ -1,7 +1,7 @@
 ### Hi there, I'm Felipe 👋 
 
 
-## I'm a Software Engineering Student, Poker Player and Pic Up Artist On Days Off !!
+## I'm a Software Engineering Student !!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
