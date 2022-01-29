@@ -36,10 +36,10 @@
 ![image](https://user-images.githubusercontent.com/98500301/151679630-d67e4cda-09a5-4087-9741-52bd0fd8f993.gif)
 
 
-[image](https://user-images.githubusercontent.com/98500301/151679782-d81ba86d-c7ae-43b9-b59f-ff823c847c2f.gif) 
-
-I love connecting with different people so if you want to say hi, I'll be happy to meet you more! !
+![image](https://user-images.githubusercontent.com/98500301/151679782-d81ba86d-c7ae-43b9-b59f-ff823c847c2f.gif) I love connecting with different people so if you want to say hi, I'll be happy to meet you more! !
 :)
+
+
 
 
 --------
