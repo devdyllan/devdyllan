@@ -28,12 +28,18 @@
 <br />
 <br />
 
+
+
 ---
 
-https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
+
+![image](https://user-images.githubusercontent.com/98500301/151679630-d67e4cda-09a5-4087-9741-52bd0fd8f993.gif)
 
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+
+
+--------
 
 [linkedin]: https://www.linkedin.com/in/felipe-reis-b28bb320a
 [visualcode]: https://code.visualstudio.com
